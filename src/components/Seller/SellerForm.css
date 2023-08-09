@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0.2rem;
+}
+
+.sellerForm {
+    box-sizing: border-box;
+    padding: 2rem;
+    border: 1px solid black;
+    display: flex;
+    width: 80%;
+    font-weight: bolder;
+    background-color: aquamarine;
+}
+
+.seller-form--input__div {
+    padding: 1rem;
+    font-weight: bolder;
+    border: 1px solid black;
+}
+
+.seller-form--input__div input {
+    width: 50%;
+    /* Add background color */
+}
+
+.seller-form--input--size-div {
+    display: flex;
+}
+
+.seller-form--input--size-div input {
+    width: 50%
+    
+}
+
+.seller-form--input--size-indi-div {
+    display: flex;
+    flex-direction: column;
+    font-weight: bolder;
+    border: 1px solid black;
+}
+button{
+    background-color:coral;
+    font-weight: bolder;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 5px;
+}

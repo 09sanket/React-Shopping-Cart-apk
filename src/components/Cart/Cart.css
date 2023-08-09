@@ -1,0 +1,17 @@
+.cart-button {
+    width: 10%;
+    height: 6rem;
+    font-size: large;
+    border-radius: 10px;
+    background-color: #3498db; /* Background color */
+    color: #fff; /* Text color */
+    font-weight: bold; /* Font weight */
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+}
+.cart-button{
+    background-color: coral;
+    font-weight: bolder;
+    color: black;
+}
